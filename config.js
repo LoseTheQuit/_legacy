@@ -19,9 +19,9 @@ module.exports = {
     "db": {
         "type": "mongo",
         "servers": [
-            "mongodb://onlyonelegacy:reactwashere@ds127968.mlab.com:27968"
+            "mongodb://onlyonelegacy:onlyonelegacy@ds127968.mlab.com:27968"
         ],
-        "name": "heroku_td9mdp69",
+        "name": "onlyonelegacy",
         "writeConcern": 1,
         "query_logging": false
     },
