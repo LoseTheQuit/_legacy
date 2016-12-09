@@ -1,0 +1,27 @@
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2016-11-28T16:47:00.490Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2016-11-28T16:47:01.172Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2016-11-28T16:47:01.423Z"}
+{"level":"error","message":"System[1]: uncaught Exception detected : Error: MongoError: could not authenticate - mongodb://heroku_td9mdp69:vl3o3hsj6e61ib7kiaul0vsjrd@ds139725.mlab.com:39725/ATLAS?\nIs your instance running?\n    at /Users/clxxxii/Documents/dev/atlas/include/dao/db_manager.js:114:31\n    at /Users/clxxxii/Documents/dev/atlas/node_modules/mongodb/lib/mongo_client.js:395:15\n    at _combinedTickCallback (internal/process/next_tick.js:67:7)\n    at process._tickDomainCallback (internal/process/next_tick.js:122:9)","timestamp":"2016-11-28T16:47:03.608Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2016-11-28T16:47:03.869Z"}
+{"level":"error","message":"System[2]: uncaught Exception detected : Error: MongoError: could not authenticate - mongodb://heroku_td9mdp69:vl3o3hsj6e61ib7kiaul0vsjrd@ds139725.mlab.com:39725/ATLAS?\nIs your instance running?\n    at /Users/clxxxii/Documents/dev/atlas/include/dao/db_manager.js:114:31\n    at /Users/clxxxii/Documents/dev/atlas/node_modules/mongodb/lib/mongo_client.js:395:15\n    at _combinedTickCallback (internal/process/next_tick.js:67:7)\n    at process._tickDomainCallback (internal/process/next_tick.js:122:9)","timestamp":"2016-11-28T16:47:05.500Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2016-11-28T16:47:05.761Z"}
+{"level":"error","message":"System[3]: uncaught Exception detected : Error: MongoError: could not authenticate - mongodb://heroku_td9mdp69:vl3o3hsj6e61ib7kiaul0vsjrd@ds139725.mlab.com:39725/ATLAS?\nIs your instance running?\n    at /Users/clxxxii/Documents/dev/atlas/include/dao/db_manager.js:114:31\n    at /Users/clxxxii/Documents/dev/atlas/node_modules/mongodb/lib/mongo_client.js:395:15\n    at _combinedTickCallback (internal/process/next_tick.js:67:7)\n    at process._tickDomainCallback (internal/process/next_tick.js:122:9)","timestamp":"2016-11-28T16:47:07.380Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2016-11-28T16:47:07.649Z"}
+{"level":"info","message":"System[4]: Shutdown complete","timestamp":"2016-11-28T16:47:09.149Z"}
+{"level":"info","message":"System[M]: Shutdown complete","timestamp":"2016-11-28T16:47:09.151Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2016-11-28T16:47:17.232Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2016-11-28T16:47:17.940Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2016-11-28T16:47:18.184Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2016-11-28T16:47:19.505Z"}
+{"level":"info","message":"ServerInitializer: HTTP server starting, binding on IP 0.0.0.0 and port: 8080","timestamp":"2016-11-28T16:47:21.597Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2016-11-28T16:47:21.605Z"}
+{"level":"info","message":"System[1]: Shutdown complete","timestamp":"2016-11-28T16:47:33.823Z"}
+{"level":"info","message":"System[M]: Shutdown complete","timestamp":"2016-11-28T16:47:33.827Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2016-11-28T16:55:44.330Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2016-11-28T16:55:45.010Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2016-11-28T16:55:45.263Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2016-11-28T16:55:47.167Z"}
+{"level":"info","message":"ServerInitializer: HTTP server starting, binding on IP 0.0.0.0 and port: 8080","timestamp":"2016-11-28T16:55:49.144Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2016-11-28T16:55:49.154Z"}
+{"level":"info","message":"System[1]: Shutdown complete","timestamp":"2016-11-28T16:55:52.204Z"}
+{"level":"info","message":"System[M]: Shutdown complete","timestamp":"2016-11-28T16:55:52.206Z"}
