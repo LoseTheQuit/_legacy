@@ -10,7 +10,7 @@
  */
 
 module.exports = {
-    "siteName": "ATLAS",
+    "siteName": "Only One Legacy",
     "siteRoot": "https://onlyonelegacy.herokuapp.com/",
     // "sitePort": 8080,
     "logging": {
